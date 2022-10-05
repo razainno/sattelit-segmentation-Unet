@@ -1,1 +1,1 @@
-# sattelit-segmentation-Unet
+# sattelite-segmentation-Unet
